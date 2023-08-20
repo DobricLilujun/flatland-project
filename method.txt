@@ -1,0 +1,5 @@
+Afin d’optimiser la recherche, nous avons mis en place plusieurs algorithmes d’optimisation stochastique et comparé leurs performances : 
+1. Descente du gradient (approx_gradient) qui donne un résultat légèrement meilleur sur small que 1+lamba : f_best = -650
+2. CMA-ES (cma_optim) qui est efficace, mais il est difficile de trouver les meilleurs paramètres. 
+Les résultats semblent cependant corrects pour std = 0.2 et gen=300 (population = 3) : f_best = -482
+3. Algorithme génétique (geneic_mutation) qui est le plus efficace. C’est la solution que nous avons retenue : f_best = -430 ou meilleur que -430
