@@ -6,4 +6,8 @@ Project for the [class FSD301 on stochastic
 optimization](https://supaerodatascience.github.io/stochastic/). Full project
 details [here](https://supaerodatascience.github.io/stochastic/project.html).
 
-Main code is located in evolution.py
+Main code is located in evolution.py with 
+Candy Yu-Doublet, 
+Chun Tian, 
+Lujun Li,
+Shiwen Sun
