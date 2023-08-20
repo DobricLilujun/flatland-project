@@ -1,0 +1,9 @@
+Avancement actuel: 
+
+Pour le moment, nous avons essayé de remplacer one plus lambda par une approximation du gradient. 
+
+Le résultat fbest est meilleur. 
+
+Nous allons ensuite essayer d'autres algo d'optimisation (l'implémentation de CMA est en cours, et nous essaierons ensuite le GA)
+Puis nous essaierons différents paramètres.
+Ensuite nous explorerons d'autres axes d'amélioration. 
